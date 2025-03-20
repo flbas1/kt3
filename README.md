@@ -53,3 +53,6 @@ export default tseslint.config({
 })
 ```
 # kt3
+
+npm run dev - this will run locally
+npm run deploy - this will upload to github pages
